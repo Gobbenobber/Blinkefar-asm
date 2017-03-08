@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Blinkefar.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Debug/Blinkefar.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Debug/Blinkefar.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Debug\Blinkefar.map</FILE>
+  <FILE>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Debug\Blinkefar.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NULSTIL><FILE>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Blinkefar.asm</FILE><LINE>30</LINE></NULSTIL>
+  <HER><FILE>C:\Users\Batuik\Documents\Atmel Studio\Blinkefar\Blinkefar\Blinkefar.asm</FILE><LINE>27</LINE></HER>
+ </LABELS>
+</ASSEMBLER_INFO>
